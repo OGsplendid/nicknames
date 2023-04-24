@@ -1,7 +1,7 @@
 {
   "name": "for-in",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/qkiv84ho8eof9g06?svg=true)](https://ci.appveyor.com/project/OGsplendid/nicknames",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/fk8mjjnu3p7j0lb0?svg=true)](https://ci.appveyor.com/project/OGsplendid/nicknames)",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
